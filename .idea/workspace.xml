@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f7d8ac1-aac3-4d73-aec8-025c1e5241cc" name="Changes" comment="Adding code to the Seconds" />
+    <list default="true" id="7f7d8ac1-aac3-4d73-aec8-025c1e5241cc" name="Changes" comment="Adding code to the Seconds">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Paint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Paint.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675798375489</updated>
-      <workItem from="1675798375813" duration="4104000" />
+      <workItem from="1675798375813" duration="5137000" />
     </task>
     <task id="LOCAL-00001" summary="Adding code to the Cylinder">
       <created>1675800381391</created>
@@ -73,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675802380735</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding code to the Seconds">
+      <created>1675802658870</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675802658870</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
