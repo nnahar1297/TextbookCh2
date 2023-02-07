@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f7d8ac1-aac3-4d73-aec8-025c1e5241cc" name="Changes" comment="Adding code to the Cylinder">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seconds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seconds.java" afterDir="false" />
-    </list>
+    <list default="true" id="7f7d8ac1-aac3-4d73-aec8-025c1e5241cc" name="Changes" comment="Adding code to the Seconds" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675798375489</updated>
-      <workItem from="1675798375813" duration="3655000" />
+      <workItem from="1675798375813" duration="4104000" />
     </task>
     <task id="LOCAL-00001" summary="Adding code to the Cylinder">
       <created>1675800381391</created>
@@ -69,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675800507912</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding code to the Seconds">
+      <created>1675802380735</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675802380735</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +81,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding code to the Cylinder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding code to the Cylinder" />
+    <MESSAGE value="Adding code to the Seconds" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding code to the Seconds" />
   </component>
 </project>

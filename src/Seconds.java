@@ -32,6 +32,6 @@ public class Seconds {
         }
         second = prompt;
 
-        System.out.println(hour + " hour/s " + minute + " minute/s " + second + " second/s ");
+        System.out.println(hour + " hours " + minute + " minutes " + second + " seconds");
     }
 }
