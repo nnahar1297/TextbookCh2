@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f7d8ac1-aac3-4d73-aec8-025c1e5241cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextbookCh2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Paint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seconds.java" afterDir="false" />
-    </list>
+    <list default="true" id="7f7d8ac1-aac3-4d73-aec8-025c1e5241cc" name="Changes" comment="Adding code to the Cylinder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,11 +50,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675798375489</updated>
-      <workItem from="1675798375813" duration="1659000" />
+      <workItem from="1675798375813" duration="2010000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding code to the Cylinder">
+      <created>1675800381391</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675800381391</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding code to the Cylinder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding code to the Cylinder" />
   </component>
 </project>
